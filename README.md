@@ -1,5 +1,5 @@
-# Resources-for-preparation-Of-DS-ALGO
-Lecture video links for preparation of Data Structures and Algorithm 
+# Resources-for-preparation-Of-Placements (Lecture video links for preparation of Placements)
+
 
 # Programming Language Used : C
 - Programming in C = https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR
@@ -74,7 +74,16 @@ Lecture video links for preparation of Data Structures and Algorithm
 
 - LOW LEVEL DESIGN = https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7
 
+<hr>
 
-         
+
+# PROJECTS
+
+- WEB DEVELOPMENT = https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
+
+- DATA SCIENCE = https://www.youtube.com/playlist?list=PLu0W_9lII9agK8pojo23OHiNz3Jm6VQCH
+
+- MACHINE LEARNING = https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG
 
 
+You can add more in this list . Lets help the community !
