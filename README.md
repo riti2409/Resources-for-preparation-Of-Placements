@@ -19,7 +19,7 @@
 - BINARY SEARCH = https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2 (TakeuForward)
 
 - DP = https://www.youtube.com/watch?v=SzLf8DvwIxI&ab_channel=CodeBuddyOfficial (Aditya Verma)<br>
-      https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY (TakeuForward)
+       https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY (TakeuForward)
 
 - STACK = https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd (Aditya Verma)
 
@@ -37,6 +37,10 @@
 
 - TRIE = https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp (TakeuForward)
 
+- SEGMENT TREE =
+
+- STL = 
+
 - COMPETITIVE PROGRAMMING= https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ- (LUV)
 
 <hr>
@@ -53,7 +57,7 @@
 
 - Programming in Python = https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME (Code with Harry)
 
-- DS-ALGO = https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l 
+- DS-ALGO = https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l (Amulya's Academy)
 
 <hr>
 
