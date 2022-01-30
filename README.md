@@ -41,6 +41,8 @@
 
 - STL = https://www.youtube.com/playlist?list=PLhUBmaJES_g-41r_z-kMGWqQ4Iz-z7Oyo (CodeBuddyOfficial)
 
+- HASHING = https://youtube.com/playlist?list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS (Hello World)
+
 - COMPETITIVE PROGRAMMING= https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ- (LUV)
 
 <hr>
