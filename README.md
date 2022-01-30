@@ -45,9 +45,8 @@
 - Programming in JAVA = https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q
 
 - DS-ALGO = https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
-
-         https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p
-            
+  https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p
+        
   <hr>          
 
 # Programming Language Used : Python
@@ -66,8 +65,8 @@
 
 - CN =    https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_
 
-- OOPS =  https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege (JAVA)
-          https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org (C++)
+- OOPS =  https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege (JAVA)<br>
+          https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org (C++)<br>
           https://www.youtube.com/watch?v=qiSCMNBIP2g&ab_channel=Telusko (PYTHON)
          
 - SYSTEM DESIGN = https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
