@@ -89,7 +89,8 @@
   
   # Designing
          
-- SYSTEM DESIGN = https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX (Gaurav Sen)
+- SYSTEM DESIGN = https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX (Gaurav Sen) 
+              https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a (sudoCode)
 
 - LOW LEVEL DESIGN = https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7 (Soumyajit bhattacharya)
 
