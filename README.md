@@ -53,7 +53,7 @@
   https://www.youtube.com/c/Pepcoding (Pepcoding)<br>
   https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p (Anuj Bhaiya) 
   
-  <hr>   
+<hr>   
   
   
 # Programming Language Used : Python
@@ -71,7 +71,7 @@
 
 - PYTHON = https://www.youtube.com/playlist?list=PLqcJACtjWm_Xk_9rMh4lQLOfW2E6SAxsF (Devsnest)
 
- <hr>
+<hr>
 
 # Computer Science Fundamentals
 
@@ -85,7 +85,7 @@
           https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org (C++)<br>
           https://www.youtube.com/watch?v=qiSCMNBIP2g&ab_channel=Telusko (PYTHON)
           
-  <hr>
+<hr>
   
   # Designing
          
