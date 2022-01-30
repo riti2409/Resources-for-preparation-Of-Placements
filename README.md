@@ -45,16 +45,15 @@
 
 - Programming in JAVA = https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q (Code with Harry)
 
-- DS-ALGO = https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ <br>
-  https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p
-        
+- DS-ALGO = https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ (Kunal Kushwaha) <br>
+  https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p (Anuj Bhaiya)        
   <hr>          
 
 # Programming Language Used : Python
 
 - Programming in Python = https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME (Code with Harry)
 
-- DS-ALGO = https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l
+- DS-ALGO = https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l 
 
 <hr>
 
