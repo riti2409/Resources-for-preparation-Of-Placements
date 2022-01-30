@@ -50,17 +50,11 @@
 - Programming in JAVA = https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q (Code with Harry)
 
 - DS-ALGO = https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ (Kunal Kushwaha) <br>
-  https://www.youtube.com/c/Pepcoding(Pepcoding)<br>
+  https://www.youtube.com/c/Pepcoding (Pepcoding)<br>
   https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p (Anuj Bhaiya) 
   
   <hr>   
   
-# Placement Series
- - C++ = https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA (CodeHelp - by Babbar)
-
-- JAVA =  https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ (Kunal Kushwaha)
-
-- PYTHON = https://www.youtube.com/playlist?list=PLqcJACtjWm_Xk_9rMh4lQLOfW2E6SAxsF (Devsnest)
   
 # Programming Language Used : Python
 
@@ -69,6 +63,15 @@
 - DS-ALGO = https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l (Amulya's Academy)
 
 <hr>
+
+# Placement Series
+ - C++ = https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA (CodeHelp - by Babbar)
+
+- JAVA =  https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ (Kunal Kushwaha)
+
+- PYTHON = https://www.youtube.com/playlist?list=PLqcJACtjWm_Xk_9rMh4lQLOfW2E6SAxsF (Devsnest)
+
+ <hr>
 
 # Computer Science Fundamentals
 
