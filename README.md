@@ -84,6 +84,10 @@
 - OOPS =  https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege (JAVA)<br>
           https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org (C++)<br>
           https://www.youtube.com/watch?v=qiSCMNBIP2g&ab_channel=Telusko (PYTHON)
+          
+  <hr>
+  
+  # Designing
          
 - SYSTEM DESIGN = https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX (Gaurav Sen)
 
@@ -92,7 +96,7 @@
 <hr>
 
 
-# PROJECTS
+# Projects
 
 - WEB DEVELOPMENT = https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg (Code with Harry)
 
