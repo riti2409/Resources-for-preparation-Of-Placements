@@ -30,3 +30,19 @@ Programming Language Used : C++
 - TRIE = https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp
 
 - COMPETITIVE PROGRAMMING= https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-
+
+Programming Language Used : JAVA
+
+- Programming in JAVA = https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q
+
+- DS/ALGO = https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+
+            https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p
+            
+            
+
+Programming Language Used : Python
+
+- Programming in Python = https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME
+
+
