@@ -71,6 +71,8 @@
 
 - JAVA =  https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ (Kunal Kushwaha)
 
+- JAVA = https://www.pepcoding.com/resources/ (Pepcoding)
+
 - PYTHON = https://www.youtube.com/playlist?list=PLqcJACtjWm_Xk_9rMh4lQLOfW2E6SAxsF (Devsnest)
 
 <hr>
