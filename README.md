@@ -53,6 +53,7 @@
 
 - DS-ALGO = https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ (Kunal Kushwaha) <br>
   https://www.youtube.com/c/Pepcoding (Pepcoding)<br>
+  https://youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0 (Durga Sir) <br>
   https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p (Anuj Bhaiya) 
   
 <hr>   
