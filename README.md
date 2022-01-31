@@ -110,5 +110,11 @@
 
 - MACHINE LEARNING = https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG (Code with Harry)
 
+# Github repos to some useful techniques
+
+-https://github.com/seanprashad/leetcode-patterns
+
+-https://github.com/ShrutiSharma01/Grokking-the-Coding-Interview-Patterns
+
 
 You can add more in this list . Lets help the community !
