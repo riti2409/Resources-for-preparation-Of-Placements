@@ -20,7 +20,7 @@
 
 - BINARY SEARCH = [TakeuForward](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
 
-- DP
+- DP =
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
   - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 
@@ -54,7 +54,7 @@
 
 - Programming in JAVA = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
 
-- DS ALGO :
+- DS ALGO =
   - [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
   - [Pepcoding](https://www.youtube.com/c/Pepcoding)
   - [Durga Sir](https://youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
