@@ -90,7 +90,7 @@
 
 - Computer Networks (CN) =    [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 
-- Object Oriented Programming System (OOPS) 
+- Object Oriented Programming System (OOPS) =
   - Java : [ApnaCollege](https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege)
   - C++ : [FreeCodeCamp.org](https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org)
   - Python : [Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g&ab_channel=Telusko)
@@ -103,7 +103,7 @@
   
   # Designing
          
-- SYSTEM DESIGN
+- SYSTEM DESIGN =
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   - [SudoCode](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 
