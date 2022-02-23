@@ -91,7 +91,7 @@
 - Computer Networks (CN) =    [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 
 - Object Oriented Programming System (OOPS) =
-  - Java : [ApnaCollege](https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege)
+  - Java : [ApnaCollege](https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege) , [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
   - C++ : [FreeCodeCamp.org](https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org)
   - Python : [Telusko](https://www.youtube.com/watch?v=qiSCMNBIP2g&ab_channel=Telusko)
           
