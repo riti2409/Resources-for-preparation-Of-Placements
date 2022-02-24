@@ -70,7 +70,7 @@
 - DS-ALGO = [Amulya's Academy](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l)
 
 - Tech With Tim = [Tech With Tim](https://www.youtube.com/c/TechWithTim)
--
+
 - Python Engineer = [Python Engineer](https://www.youtube.com/c/PythonEngineer)
 
 <hr>
