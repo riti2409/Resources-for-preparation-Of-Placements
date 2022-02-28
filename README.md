@@ -18,7 +18,7 @@
 
 - STRING = [CodeNCode](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6ThrYKCzgEpmaS_XWDGHjx)
 
-- BINARY SEARCH = [TakeuForward](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
+- BINARY SEARCH = [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
 
 - DP =
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
