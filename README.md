@@ -119,6 +119,7 @@
 - Git and GitHub for Poets: [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 <hr>
+
 # Projects
 
 - WEB DEVELOPMENT = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
