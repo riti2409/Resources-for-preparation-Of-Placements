@@ -20,6 +20,9 @@
 
 - [BINARY SEARCH](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
 
+- BINARY SEARCH = [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
+
+
 - DP
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
   - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
@@ -68,6 +71,10 @@
 
 - [DS-ALGO](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l)
 
+- Tech With Tim = [Tech With Tim](https://www.youtube.com/c/TechWithTim)
+
+- Python Engineer = [Python Engineer](https://www.youtube.com/c/PythonEngineer)
+
 <hr>
 
 **Placement Series**
@@ -106,7 +113,19 @@
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   - [SudoCode](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 
+
 - [LOW LEVEL DESIGN](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
+
+- LOW LEVEL DESIGN = [Soumyajit bhattacharya](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
+- [Sandeep Kaul] https://www.codekarle.com/
+- [Crack the System DesigN Interview] https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview
+- [System Design Interview — Alex Xu] : An awesome book to prepare for system design interviews.
+- [Designing Data Intensive Applications] : This book will provide an insight of how all the huge data scale systems are working.
+- [System Design Interview] https://github.com/checkcheckzz/system-design-interview
+- [System Design] https://github.com/shashank88/system_design
+- [Services Engineering] https://github.com/mmcgrana/services-engineering
+- [Engineering Blogs] https://github.com/kilimchoi/engineering-blogs
+
 
 <hr>
 
