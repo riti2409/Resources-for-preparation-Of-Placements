@@ -22,7 +22,7 @@
 
 
 
-- DP
+- Dynamic Programming
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
   - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 
@@ -56,7 +56,7 @@
 
 - [Programming in JAVA](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
 
-- DS ALGO
+- Data Structure and Algorithams
   - [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
   - [Pepcoding](https://www.youtube.com/c/Pepcoding)
   - [Durga Sir](https://youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
@@ -113,15 +113,15 @@
   - [SudoCode](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 
 - LOW LEVEL DESIGN 
-- [Soumyajit bhattacharya](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
-- [Sandeep Kaul](https://www.codekarle.com/)
-- [Crack the System DesigN Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
--  System Design Interview — Alex Xu : An awesome book to prepare for system design interviews.
--  Designing Data Intensive Applications : This book will provide an insight of how all the huge data scale systems are working.
-- [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
-- [System Design](https://github.com/shashank88/system_design)
-- [Services Engineering](https://github.com/mmcgrana/services-engineering)
-- [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+  - [Soumyajit bhattacharya](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
+  - [Sandeep Kaul](https://www.codekarle.com/)
+  - [Crack the System DesigN Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
+  - [System Design Interview — Alex Xu](https://www.amazon.com/System-Design-Interview-Insiders-Guide-ebook/dp/B08B3FWYBX/)
+  - [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
+  - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+  - [System Design](https://github.com/shashank88/system_design)
+  - [Services Engineering](https://github.com/mmcgrana/services-engineering)
+  - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
 
 <hr>
