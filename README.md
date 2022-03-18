@@ -148,6 +148,6 @@
 
 - [Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
--[Data science intern course](https://www.youtube.com/playlist?list=PL7zl8TDRnbul57eQ-8R5r9h1028aLoQXT)
+- [Data science intern course](https://www.youtube.com/playlist?list=PL7zl8TDRnbul57eQ-8R5r9h1028aLoQXT)
 
 You can add more in this list . Lets help the community !
