@@ -144,7 +144,7 @@
 
 - [leetcode-patterns](https://github.com/seanprashad/leetcode-patterns)
 
-- [Coding-Interview-Patterns](https://github.com/ShrutiSharma01/Grokking-the-Coding-Interview-Patterns)
+- [Coding-Interview-Patterns]( https://github.com/ShrutiSharma01/Grokking-the-Coding-Interview-Patterns)
 
 - [Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
