@@ -1,7 +1,7 @@
 # Resources-for-preparation-Of-Placements (Lecture video links)
 
-
 **Programming Language Used : C**
+
 - [Programming in C](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR)
 
 - [DS-ALGO](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
@@ -20,9 +20,8 @@
 
 - [BINARY SEARCH](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
 
-
-
 - Dynamic Programming
+
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
   - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 
@@ -63,12 +62,14 @@
   - [Pepcoding](https://www.youtube.com/c/Pepcoding)
   - [Durga Sir](https://youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
   - [Anuj Bhaiya](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
-  
+
 <hr>   
   
 **Programming Language Used : Python**
 
 - [Programming in Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+
+- [DSA in Python](https://youtu.be/pkYVOmU3MgA)
 
 - [DS-ALGO](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l)
 
@@ -79,7 +80,8 @@
 <hr>
 
 **Placement Series**
- - [C++](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
+
+- [C++](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 
 - [JAVA](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
@@ -101,11 +103,10 @@
   - [Java](https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege)
   - [C++](https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org)
   - [Python](https://www.youtube.com/watch?v=qiSCMNBIP2g&ab_channel=Telusko)
-          
 - [Theory Of Computation (THOC)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 
 - [Software Engineering (SE)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2)
-          
+
 <hr>
   
 **Designing**
@@ -114,7 +115,7 @@
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   - [SudoCode](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 
-- LOW LEVEL DESIGN 
+- LOW LEVEL DESIGN
   - [Soumyajit bhattacharya](https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
   - [Sandeep Kaul](https://www.codekarle.com/)
   - [Crack the System DesigN Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
@@ -125,14 +126,13 @@
   - [Services Engineering](https://github.com/mmcgrana/services-engineering)
   - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
-
 <hr>
 
 **Git and Github**
+
 - [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 <hr>
-
 
 **Projects**
 
@@ -146,7 +146,7 @@
 
 - [leetcode-patterns](https://github.com/seanprashad/leetcode-patterns)
 
-- [Coding-Interview-Patterns]( https://github.com/ShrutiSharma01/Grokking-the-Coding-Interview-Patterns)
+- [Coding-Interview-Patterns](https://github.com/ShrutiSharma01/Grokking-the-Coding-Interview-Patterns)
 
 - [Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
