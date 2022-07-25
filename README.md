@@ -20,7 +20,7 @@
 
 - [BINARY SEARCH](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
 
-- Dynamic Programming
+- [Dynamic Programming](https://whimsical.com/dp-sheet-by-love-babbar-EELKgSMWg51ypLyfn9mTjr)
 
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
   - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
