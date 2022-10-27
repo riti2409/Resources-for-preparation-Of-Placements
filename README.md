@@ -14,9 +14,9 @@
 
 - [Programming in C++](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 
-- [ARRAYS](https://www.youtube.com/playlist?list=PLDA2q3s0-n17lGt6HyexWP0zR1yISc1km)
+- [ARRAYS](https://www.youtube.com/playlist?list=PLDdcY4olLQk3zG-972eMoDJHLIz3FiGA6)
 
-- [STRING](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6ThrYKCzgEpmaS_XWDGHjx)
+- [STRING](https://www.youtube.com/playlist?list=PLDdcY4olLQk0A0o2U0fOUjmO2v3X6GOxX)
 
 - [BINARY SEARCH](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
 
