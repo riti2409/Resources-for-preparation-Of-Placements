@@ -95,7 +95,11 @@
 
 - [DataBase and Management System (DBMS)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 
+- [DBMS placement course By Lakshay Kumar (Codehelp)](https://www.youtube.com/watch?v=eYpXCdvKwEQ)
+
 - [Operating System (OS)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+- 
+- [OS placement course By Lakshay Kumar (Codehelp)](https://youtu.be/_TpOHMCODXo)
 
 - [Computer Networks (CN)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 
