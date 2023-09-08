@@ -64,7 +64,20 @@
   - [Anuj Bhaiya](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
 
 <hr>   
-  
+
+
+**Programming Language Used : Javascript**
+
+- [Programming in Javascript](https://youtube.com/playlist?list=RDCMUCc7gpqMnnOSbU_F2-5MVVZw&playnext=1&si=0g7OyLaNsOKxYeyV)
+
+- [DSA in Javascript](https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7)
+
+- [100+ Javascript Concepts ](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l)
+
+
+
+<hr>
+
 **Programming Language Used : Python**
 
 - [Programming in Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
@@ -86,6 +99,8 @@
 - [JAVA](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 - [JAVA](https://www.pepcoding.com/resources/)
+
+- [Javascript](https://www.youtube.com/playlist?list=PLdUNf3tSZO3yPJltcc57KDpJShK8EEJ0J)
 
 - [PYTHON](https://www.youtube.com/playlist?list=PLqcJACtjWm_Xk_9rMh4lQLOfW2E6SAxsF)
 
