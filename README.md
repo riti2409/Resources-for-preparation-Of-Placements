@@ -57,7 +57,7 @@
 
 - [Programming in JAVA](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
 
-- Data Structure and Algorithams
+- [Data Structure and Algorithams](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
   - [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
   - [Pepcoding](https://www.youtube.com/c/Pepcoding)
   - [Durga Sir](https://youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
