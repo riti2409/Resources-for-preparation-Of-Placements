@@ -135,6 +135,7 @@
   - [System Design](https://github.com/shashank88/system_design)
   - [Services Engineering](https://github.com/mmcgrana/services-engineering)
   - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+  - [LLD Coding](https://lldcoding.com)
 
 <hr>
 
