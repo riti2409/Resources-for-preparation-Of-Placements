@@ -12,42 +12,42 @@
 
 **Programming Language Used : C++**
 
-- [Programming in C++](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
+- [Programming in C++](https://www.youtube.com/watch?v=EAR7De6Goz4) (TakeUForward)
 
-- [ARRAYS](https://www.youtube.com/playlist?list=PLDdcY4olLQk3zG-972eMoDJHLIz3FiGA6)
+- [ARRAYS](https://www.youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB) (TakeUForward)
 
-- [STRING](https://www.youtube.com/playlist?list=PLDdcY4olLQk0A0o2U0fOUjmO2v3X6GOxX)
+- [STRING](https://www.youtube.com/playlist?list=PLDdcY4olLQk0A0o2U0fOUjmO2v3X6GOxX) (CodeLibrary)
 
-- [BINARY SEARCH](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
+- [BINARY SEARCH](https://www.youtube.com/playlist?list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF) (TakeUForward)
 
-- [Dynamic Programming](https://whimsical.com/dp-sheet-by-love-babbar-EELKgSMWg51ypLyfn9mTjr)
+- [Dynamic Programming]
 
+  - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY)
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
-  - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 
-- [STACK](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)
+- [STACK AND QUEUE](https://www.youtube.com/playlist?list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c) (TakeUForward)
 
-- [HEAP](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9)
+- [HEAP](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) (Aditya Verma)
 
-- [SLIDING WINDOW](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)
+- [SLIDING WINDOW](https://www.youtube.com/playlist?list=PLgUwDviBIf0q7vrFA_HEWcqRqMpCXzYAL) (TakeUForward)
 
-- [RECURSION , BACKTRACKING](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9)
+- [RECURSION , BACKTRACKING](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9) (TakeUForward)
 
-- [TREES](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk)
+- [TREES](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) (TakeUForward)
 
-- [GRAPHS](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+- [GRAPHS](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw) (TakeUForward)
 
-- [LINKEDLIST](https://www.youtube.com/playlist?list=PLKZaSt2df1gz775Mz-2gLpY9sld5wH8We)
+- [LINKEDLIST](https://www.youtube.com/playlist?list=PLKZaSt2df1gz775Mz-2gLpY9sld5wH8We) (TakeUForward)
 
-- [TRIE](https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp)
+- [TRIE](https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp) (TakeUForward)
 
-- [SEGMENT TREE](https://www.youtube.com/watch?v=SzLf8DvwIxI&ab_channel=CodeBuddyOfficial)
+- [SEGMENT TREE](https://www.youtube.com/watch?v=SzLf8DvwIxI&ab_channel=CodeBuddyOfficial) (CodeBuddyOfficial)
 
-- [STL](https://www.youtube.com/playlist?list=PLhUBmaJES_g-41r_z-kMGWqQ4Iz-z7Oyo)
+- [STL](https://youtu.be/RRVYpIET_RU?si=Drz4bAJ56SWPleHw) (TakeUForward)
 
-- [HASHING](https://youtube.com/playlist?list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS)
+- [HASHING](https://youtube.com/playlist?list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS) (Hello World)
 
-- [COMPETITIVE PROGRAMMING](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
+- [COMPETITIVE PROGRAMMING](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) (LUV)
 
 - [CodeWithTwins](https://www.youtube.com/playlist?list=PL2ZC2yNuZ0DWaXlMWSOaR61nAFWDqgQ0Z)
 
@@ -81,19 +81,19 @@
 
 **Placement Series**
 
-- [C++](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
+- [C++](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz) (TakeUForward)
 
-- [JAVA](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [JAVA](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) (Kunal Kushwaha)
 
-- [JAVA](https://www.pepcoding.com/resources/)
+- [JAVA](https://www.pepcoding.com/resources/) (Pepcoding)
 
-- [PYTHON](https://www.youtube.com/playlist?list=PLqcJACtjWm_Xk_9rMh4lQLOfW2E6SAxsF)
+- [PYTHON](https://www.youtube.com/playlist?list=PLYyHL-eSMowW1hFTYyufPa9C1rBI3H9r2)
 
 <hr>
 
 **Computer Science Fundamentals**
 
-- [DataBase and Management System (DBMS)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+- [DataBase and Management System (DBMS)](https://www.youtube.com/playlist?list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq)
 
 - [Operating System (OS)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 
@@ -157,14 +157,7 @@
 
 - [leetcode-patterns](https://github.com/seanprashad/leetcode-patterns)
 
-- [Coding-Interview-Patterns](https://github.com/ShrutiSharma01/Grokking-the-Coding-Interview-Patterns)
+- [Coding-Interview-Patterns](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
 
-- [Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
-
-- [Data science intern course](https://www.youtube.com/playlist?list=PL7zl8TDRnbul57eQ-8R5r9h1028aLoQXT)
-
-- [Spring Boot](https://www.youtube.com/watch?v=35EQXmHKZYs&ab_channel=Telusko)
-
-- [Unity Game Development](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
 
 You can add more in this list . Lets help the community !
