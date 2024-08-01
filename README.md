@@ -91,6 +91,20 @@
 
 <hr>
 
+**Placement Sheets**
+
+- [DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) 
+
+- [DBMS](https://takeuforward.org/dbms/most-asked-dbms-interview-questions) 
+
+- [Operating System](https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions) 
+
+- [Computer Networks](https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions)
+
+- [System Design](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes)
+
+<hr>
+
 **Computer Science Fundamentals**
 
 - [DataBase and Management System (DBMS)](https://www.youtube.com/playlist?list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq)
