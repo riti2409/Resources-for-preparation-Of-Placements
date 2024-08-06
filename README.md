@@ -114,7 +114,7 @@
 - [Computer Networks (CN)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 
 - Object Oriented Programming System (OOPS)
-  - [Java](https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege)
+  - JAVA [1ST](https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege) and -[2nd](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&si=akrcvQdh3wIVT_z8)
   - [C++](https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org)
   - [Python](https://www.youtube.com/watch?v=qiSCMNBIP2g&ab_channel=Telusko)
 - [Theory Of Computation (THOC)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
