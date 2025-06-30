@@ -57,7 +57,7 @@
 
 - [Programming in JAVA](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
 
-- Data Structure and Algorithams
+- Data Structure and Algorithms
   - [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
   - [Pepcoding](https://www.youtube.com/c/Pepcoding)
   - [Durga Sir](https://youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
@@ -102,6 +102,8 @@
 - [Computer Networks](https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions)
 
 - [System Design](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes)
+
+- [Company Wise](https://www.indiabix.com/placement-papers/companies/)
 
 <hr>
 
